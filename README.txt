@@ -17,9 +17,9 @@
 	Java SDK 1.7.0_u11
 
  III. Setup:
-	It is assumed the database has been set up and loaded with the test
- information (sql/BreakingBad.sql).  This populates some sample data to develop
- with.
+	It is assumed the database has been set up (sql/create_db.sql) and 
+ loaded with the test information (sql/BreakingBad.sql).  This populates 
+ some sample data to develop with.
 
   
 +-----------------------------------------------------------------------------+
